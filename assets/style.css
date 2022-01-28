@@ -1,0 +1,11 @@
+.jumbotron {
+    text-align: center;
+    background-image: linear-gradient(to bottom right, rgb(247, 157, 157), rgb(236, 182, 225));
+    color: black;
+    border-radius: 0;
+    border-bottom: 2px solid black;
+  }
+
+.card-header{
+    background-color: rgb(164, 233, 235);
+}
