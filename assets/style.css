@@ -6,6 +6,10 @@
     border-bottom: 2px solid black;
   }
 
+.card{
+  margin: 5px;
+}
+
 .card-header{
     background-color: rgb(164, 233, 235);
 }
